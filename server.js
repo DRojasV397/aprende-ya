@@ -1,7 +1,6 @@
 const express = require("express");
 const router = express.Router();
 const cors = require("cors");
-const express = require('express');
 const path = require('path');
 
 // server used to send send emails
